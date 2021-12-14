@@ -1,6 +1,6 @@
 # TP_AnalyseNumerique
 #### Compte rendu TP1 : Résolution de l'équation f(x)=0 avec les trois méthodes (Point fixe/Dichotomie/Newton)
-[a link](Compte rendu TP 1.ipynb)
+
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/farahjbara/TP_AnalyseNumerique/main?labpath=TP1.ipynb)
 
