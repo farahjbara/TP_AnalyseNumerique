@@ -3,5 +3,6 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/farahjbara/TP_AnalyseNumerique/main?labpath=TP1.ipynb)
 
-#### Compte rendu TP2 : Interplolation polynomiale
+#### [Compte rendu TP2 : Interplolation polynomiale](https://github.com/farahjbara/TP_AnalyseNumerique/blob/main/Compte%20rendu%202%20.ipynb)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/farahjbara/TP_AnalyseNumerique/main?labpath=Compte%20rendu%202%20.ipynb)
