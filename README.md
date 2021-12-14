@@ -1,4 +1,6 @@
-# TP_AnalyseNumerique
+# TP_AnalyseNumerique 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/farahjbara/TP_AnalyseNumerique/main?labpath=https%3A%2F%2Fgithub.com%2Ffarahjbara%2FTP_AnalyseNumerique)
+
 
 Ce TP est organisé en <B> 3 chapitres </B> , chaque chapitre comporte un rappel
 théorique de différentes méthodes, un programme de test et un énoncé des travaux
@@ -26,5 +28,3 @@ méthode de Simpson.
 
 #### [ TP3 : Intégration numérique](https://github.com/farahjbara/TP_AnalyseNumerique/blob/main/Compte%20rendu%20TP%203%20.ipynb)
 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/farahjbara/TP_AnalyseNumerique/main?labpath=https%3A%2F%2Fgithub.com%2Ffarahjbara%2FTP_AnalyseNumerique)
