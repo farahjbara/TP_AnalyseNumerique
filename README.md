@@ -24,4 +24,4 @@ méthode de Simpson.
 
 #### [ TP2 : Interplolation polynomiale](https://github.com/farahjbara/TP_AnalyseNumerique/blob/main/Compte%20rendu%202%20.ipynb)
 
-
+#### [ TP3 : Intégration numérique]()
