@@ -22,8 +22,6 @@ méthode de Simpson.
 
 #### [ TP1 : Résolution de l'équation f(x)=0 avec les trois méthodes (Point fixe/Dichotomie/Newton)](https://github.com/farahjbara/TP_AnalyseNumerique/blob/main/TP%201.ipynb)
 
-
-
 #### [ TP2 : Interplolation polynomiale](https://github.com/farahjbara/TP_AnalyseNumerique/blob/main/TP%202%20.ipynb)
 
 #### [ TP3 : Intégration numérique](https://github.com/farahjbara/TP_AnalyseNumerique/blob/main/TP%203%20.ipynb)
